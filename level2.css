@@ -1,0 +1,12 @@
+body {
+    background: url("ship.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+     font-size: larger;font-family: Georgia;
+}
+.firstDiv {
+    color: gold;
+}
+.workbody {
+    background: rgba(40, 50, 80, 0.7);
+}
